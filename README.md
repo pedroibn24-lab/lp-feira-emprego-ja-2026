@@ -16,7 +16,7 @@ A landing page apresenta informações sobre o evento, resultados anteriores, be
 
 - HTML5
 - CSS3
-- Google Fonts
+- JavaScript
 
 ---
 
@@ -47,16 +47,6 @@ A landing page apresenta informações sobre o evento, resultados anteriores, be
 - Integração com WhatsApp
 - Marquee animado
 - Layout responsivo
-
----
-
-## Responsividade
-
-O projeto foi desenvolvido para:
-
-- Desktop
-- Tablet
-- Smartphones
 
 ---
 
