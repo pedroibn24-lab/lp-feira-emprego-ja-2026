@@ -20,22 +20,6 @@ A landing page apresenta informações sobre o evento, resultados anteriores, be
 
 ---
 
-## Estrutura do projeto
-
-```bash
-.
-├── index.html
-├── style.css
-└── assets/
-    ├── logoEmpregoJa.png
-    ├── fidamFrente.jpeg
-    ├── videoFeiraEmprego.mp4
-    ├── feiraEmprego2025_page-0001.jpg
-    └── ilustraçãoFeiraEmprego_page-0001.jpg
-```
-
----
-
 ## Funcionalidades
 
 - Hero section com vídeo
@@ -57,8 +41,4 @@ Americana — SP
 
 WhatsApp: (19) 98327-5538
 
----
 
-## Licença
-
-Projeto de uso institucional/private.
