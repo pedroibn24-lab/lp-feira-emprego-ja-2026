@@ -34,11 +34,3 @@ A landing page apresenta informações sobre o evento, resultados anteriores, be
 
 ---
 
-## Contato
-
-Feira Emprego Já 2026  
-Americana — SP
-
-WhatsApp: (19) 98327-5538
-
-
