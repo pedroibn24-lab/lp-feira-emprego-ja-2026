@@ -14,9 +14,13 @@ A landing page apresenta informações sobre o evento, resultados anteriores, be
 
 ## Tecnologias utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
+- HTML5 semântico
+- CSS3 (variáveis, grid, flexbox, animações)
+- JavaScript vanilla
+- GitHub Actions
+- Google Fonts (Bricolage Grotesque, Inter Tight, JetBrains Mono)
+- Schema.org (rich result de evento no Google)
+- Open Graph / Twitter Card para compartilhamento social
 
 ---
 
@@ -33,4 +37,3 @@ A landing page apresenta informações sobre o evento, resultados anteriores, be
 - Layout responsivo
 
 ---
-
